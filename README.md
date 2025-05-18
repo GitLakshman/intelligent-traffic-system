@@ -54,13 +54,15 @@ Traditional fixed-timing traffic signals often lead to unnecessary delays and co
 ![20250505_15h09m56s_grim](https://github.com/user-attachments/assets/5423df3f-d90e-46f2-95b1-429e62e46952)
 
 
-## 📦 Project Structure
+## 📁 Project Structur
 
-├── YOLO_Model/
-├── vehicle_detection.py
-├── signal_controller.py
-├── requirements.txt
-└── README.md
+```bash
+├── YOLO_Model/              # Contains YOLO model files and configurations
+├── vehicle_detection.py     # Script for detecting and counting vehicles using YOLO
+├── signal_controller.py     # Controls traffic signal LEDs based on traffic density
+├── requirements.txt         # Python dependencies for the project
+└── README.md                # Project documentation
+
 
 
 ## 🚀 Future Enhancements
