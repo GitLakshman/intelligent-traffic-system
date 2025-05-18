@@ -40,12 +40,17 @@ Traditional fixed-timing traffic signals often lead to unnecessary delays and co
 
 ## 📷 Demo
 **Red Signal Timing 🚦**
+
 ![20250505_15h09m36s_grim](https://github.com/user-attachments/assets/26389a15-0dd8-4e4e-8da0-bc4256676ee3)
 
+
 **Yellow Signal Timing 🚦**
+
 ![20250505_15h09m48s_grim](https://github.com/user-attachments/assets/6ca6afe5-49b2-4559-a623-4b3262db1464)
 
+
 **Green Timing 🚦**
+
 ![20250505_15h09m56s_grim](https://github.com/user-attachments/assets/5423df3f-d90e-46f2-95b1-429e62e46952)
 
 
