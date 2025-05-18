@@ -80,3 +80,13 @@ This project is for academic use and is open-source for educational and non-comm
 ---
 
 Developed as a Final Year Project in Electronics and Communication Engineering at BVC Engineering College, Odalarevu.
+
+[1] <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9358334&isnumber=9358272">M. M. Gandhi, D. S. Solanki, R. S. Daptardar and N. S. Baloorkar, "Smart Control of Traffic Light Using Artificial Intelligence," 2020 5th IEEE International Conference on Recent Advances and Innovations in Engineering (ICRAIE), 2020, pp. 1-6, doi: 10.1109/ICRAIE51050.2020.9358334.</a>
+
+[2] <a href="https://www.researchgate.net/publication/229029935_Intelligent_Traffic_Lights_Control_By_Fuzzy_Logic">Khiang, Kok & Khalid, Marzuki & Yusof, Rubiyah. (1997). Intelligent Traffic Lights Control By Fuzzy Logic. Malaysian Journal of Computer Science. 9. 29-35.</a>
+
+[3] <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6137134&isnumber=6137119">M. H. Malhi, M. H. Aslam, F. Saeed, O. Javed and M. Fraz, "Vision Based Intelligent Traffic Management System," 2011 Frontiers of Information Technology, 2011, pp. 137-141, doi: 10.1109/FIT.2011.33.</a>
+
+[4] <a href="https://www.researchgate.net/publication/328987822_Improving_Traffic_Light_Control_by_Means_of_Fuzzy_Logic">A. Vogel, I. Oremović, R. Šimić and E. Ivanjko, "Improving Traffic Light Control by Means of Fuzzy Logic," 2018 International Symposium ELMAR, 2018, pp. 51-56, doi: 10.23919/ELMAR.2018.8534692.</a>
+
+[5] <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7868350&isnumber=7868337">T. Osman, S. S. Psyche, J. M. Shafi Ferdous and H. U. Zaman, "Intelligent traffic management system for cross section of roads using computer vision," 2017 IEEE 7th Annual Computing and Communication Workshop and Conference (CCWC), 2017, pp. 1-7, doi: 10.1109/CCWC.2017.7868350.</a>
