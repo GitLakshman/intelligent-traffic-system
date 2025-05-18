@@ -77,8 +77,6 @@ Traditional fixed-timing traffic signals often lead to unnecessary delays and co
 
 This project is for academic use and is open-source for educational and non-commercial purposes.
 
----
-
 Developed as a Final Year Project in Electronics and Communication Engineering at BVC Engineering College, Odalarevu.
 
 ---
