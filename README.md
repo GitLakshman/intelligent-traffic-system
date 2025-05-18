@@ -79,4 +79,4 @@ This project is for academic use and is open-source for educational and non-comm
 
 ---
 
-Developed as a Final Year Project at BVCEC(A), Department of ECE.
+Developed as a Final Year Project in Electronics and Communication Engineering at BVC Engineering College, Odalarevu.
