@@ -81,6 +81,8 @@ This project is for academic use and is open-source for educational and non-comm
 
 Developed as a Final Year Project in Electronics and Communication Engineering at BVC Engineering College, Odalarevu.
 
+---
+
 [1] <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9358334&isnumber=9358272">M. M. Gandhi, D. S. Solanki, R. S. Daptardar and N. S. Baloorkar, "Smart Control of Traffic Light Using Artificial Intelligence," 2020 5th IEEE International Conference on Recent Advances and Innovations in Engineering (ICRAIE), 2020, pp. 1-6, doi: 10.1109/ICRAIE51050.2020.9358334.</a>
 
 [2] <a href="https://www.researchgate.net/publication/229029935_Intelligent_Traffic_Lights_Control_By_Fuzzy_Logic">Khiang, Kok & Khalid, Marzuki & Yusof, Rubiyah. (1997). Intelligent Traffic Lights Control By Fuzzy Logic. Malaysian Journal of Computer Science. 9. 29-35.</a>
