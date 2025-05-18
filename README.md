@@ -40,9 +40,7 @@ Traditional fixed-timing traffic signals often lead to unnecessary delays and co
 
 ## 📷 Demo
 
-![Demo Image](link-to-your-image-or-gif)
-
-> Replace this with a GIF or screenshot once you record the live working system.
+![20250505_15h09m36s_grim](https://github.com/user-attachments/assets/26389a15-0dd8-4e4e-8da0-bc4256676ee3)(link-to-your-image-or-gif)
 
 ## 📦 Project Structure
 
